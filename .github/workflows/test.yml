@@ -1,4 +1,4 @@
-name: Test Project
+name: Test1 Project
 
 on:
   pull_request:
